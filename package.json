@@ -28,6 +28,7 @@
     "supertest": "^1.2.0"
   },
   "dependencies": {
+    "ajax": "0.0.4",
     "bluebird": "^3.4.1",
     "body-parser": "^1.15.2",
     "compression": "^1.6.2",
